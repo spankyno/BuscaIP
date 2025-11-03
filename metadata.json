@@ -1,0 +1,5 @@
+{
+  "name": "Aitor Sánchez Gutiérrez IP",
+  "description": "An application to look up the geolocation and WHOIS information for any IP address. It displays the location on an interactive map and provides detailed WHOIS data using the Gemini API.",
+  "requestFramePermissions": []
+}
